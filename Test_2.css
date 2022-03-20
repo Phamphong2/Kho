@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(122, 164, 199);
+}
+.all{
+    box-shadow: 0px 10px 15px #4b87e2;
+    margin: 150px 50px;
+    background-color: rgb(29, 47, 53);
+    color:greenyellow
+}
+
+.about-us{
+    text-align: center;
+    color: rgb(92, 241, 105);
+}
+
+.img{
+    width: 50px;
+}
+
+.choose-list{
+    background-color: rgb(29, 47, 53);
+    box-shadow: 0px 0px 50px #000000;
+}
+.fas{
+    text-shadow: 0px 10px 15px #47a753;
+}
